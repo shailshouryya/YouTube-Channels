@@ -3,7 +3,7 @@
 ## Alien Babies Podcast
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>Alien Babies Podcast: About Page</strong></summary>
 
 <details>
 <summary><strong>Alien Babies Podcast description</strong></summary>
@@ -45,7 +45,7 @@
 ## JRE Clips
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>JRE Clips: About Page</strong></summary>
 
 <details>
 <summary><strong>JRE Clips Description</strong></summary>
@@ -69,7 +69,7 @@ Location: United States
 ## Lex Clips
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>Lex Clips: About Page</strong></summary>
 
 <details>
 <summary><strong>Lex Clips Description</strong></summary>
@@ -96,7 +96,7 @@ Location: United States
 ## Lex Fridman
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>Lex Fridman: About Page</strong></summary>
 
 <details>
 <summary><strong>Lex Fridman Description</strong></summary>
@@ -125,7 +125,7 @@ Location: United States
 ## PowerfulJRE
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>PowerfulJRE: About Page</strong></summary>
 
 <details>
 <summary><strong>PowerfulJRE Description</strong></summary>
@@ -154,7 +154,7 @@ The Joe Rogan Experience podcast
 ## Rich Roll
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>Rich Roll: About Page</strong></summary>
 
 <details>
 <summary><strong>Rich Roll Description</strong></summary>
