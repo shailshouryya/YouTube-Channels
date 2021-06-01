@@ -19,10 +19,12 @@ def extract_text(driver):
     finish_expandable_section_tag =  '</strong></summary>\n'
     with open(f'{formatted_channel_name}.md', mode='w', newline=None, encoding='utf-8') as file:
         file.write(f'## {channel_name}\n\n')
+        file.write(f'{open_expandable_section_tag}: About Page{finish_expandable_section_tag}\n')
         file.write(f'{open_expandable_section_tag} Description{finish_expandable_section_tag}{description}\n</details>\n\n')
         file.write(f'{open_expandable_section_tag} Biography{finish_expandable_section_tag}{biography}\n</details>\n\n')
         file.write(f'{open_expandable_section_tag} Details{finish_expandable_section_tag}{details}\n</details>\n\n')
         file.write(f'{open_expandable_section_tag} Links{finish_expandable_section_tag}{links}\n</details>\n\n')
+        file.write('</details>')
 
 
 if __name__ == '__main__':
