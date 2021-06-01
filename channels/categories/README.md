@@ -56,6 +56,28 @@ Location: United States
 <summary><strong>JRE Clips Links</strong></summary>
 </details>
 
+## Lex Clips
+
+<details>
+<summary><strong>Lex Clips Description</strong></summary>
+Clips from the Lex Fridman podcast. Visit the main channel for full conversations and other videos.
+</details>
+
+<details>
+<summary><strong>Lex Clips Biography</strong></summary>
+</details>
+
+<details>
+<summary><strong>Lex Clips Details</strong></summary>
+Location: United States
+</details>
+
+<details>
+<summary><strong>Lex Clips Links</strong></summary>
+
+- [Lex Fridman Main Channel](https://www.youtube.com/lexfridman)
+</details>
+
 ## Lex Fridman
 
 <details>
