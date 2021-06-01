@@ -26,21 +26,40 @@
 
 <details>
 <summary><strong>Alien Babies Podcast Links</strong></summary>
-  - Links
-    - [Spotify](https://open.spotify.com/show/2D9g6MHUvg2XQH6dd3qhVO?si=hb_qyQhASW-uZMQgVD5iRg)
-    - [Merch & Alien TV](https://www.outhousealien.com/)
-    - [Alien Ad Agency](https://www.inhousealien.com/)
-    - [Twitch](https://www.twitch.tv/hiarthuralien)
-    - [Instagram](https://www.instagram.com/ArthurAlien/)
-    - AlienBabiesPodcast.com
-    - [Facebook](https://www.facebook.com/AlienBabiesPodcast)
+
+- Links
+  - [Spotify](https://open.spotify.com/show/2D9g6MHUvg2XQH6dd3qhVO?si=hb_qyQhASW-uZMQgVD5iRg)
+  - [Merch & Alien TV](https://www.outhousealien.com/)
+  - [Alien Ad Agency](https://www.inhousealien.com/)
+  - [Twitch](https://www.twitch.tv/hiarthuralien)
+  - [Instagram](https://www.instagram.com/ArthurAlien/)
+  - AlienBabiesPodcast.com
+  - [Facebook](https://www.facebook.com/AlienBabiesPodcast)
+</details>
+
+## JRE Clips
+
+<details>
+<summary><strong>JRE Clips Description</strong></summary>
+</details>
+
+<details>
+<summary><strong>JRE Clips Biography</strong></summary>
+</details>
+
+<details>
+<summary><strong>JRE Clips Details</strong></summary>
+Location: United States
+</details>
+
+<details>
+<summary><strong>JRE Clips Links</strong></summary>
 </details>
 
 ## Rich Roll
 
 <details>
 <summary><strong>Rich Roll Description</strong></summary>
-
 Thanks for stopping by! I used to be an unhealthy corporate lawyer. At 40 I decided to change my life. I switched to a 100% plant-based diet, lost 50 pounds and started exploring human potential across a spectrum of disciplines: ultra-endurance, wellness, nutrition, mindfulness and spirituality.
 
 Now 54, I travel the world sharing what I have learned in talks, books, and on my podcast. I'm also a dad to 4 kids & live in Malibu, California.
