@@ -56,6 +56,30 @@ Location: United States
 <summary><strong>JRE Clips Links</strong></summary>
 </details>
 
+## Lex Fridman
+
+<details>
+<summary><strong>Lex Fridman Description</strong></summary>
+Lex Fridman Podcast and other videos.
+</details>
+
+<details>
+<summary><strong>Lex Fridman Biography</strong></summary>
+</details>
+
+<details>
+<summary><strong>Lex Fridman Details</strong></summary>
+Location: United States
+</details>
+
+<details>
+<summary><strong>Lex Fridman Links</strong></summary>
+
+- [Lex Clips Channel](https://www.youtube.com/lexclips)
+- [Website](https://lexfridman.com/)
+- [Twitter](https://twitter.com/lexfridman)
+</details>
+
 ## Rich Roll
 
 <details>
