@@ -3,6 +3,9 @@
 ## Alien Babies Podcast
 
 <details>
+<summary><strong>About</strong></summary>
+
+<details>
 <summary><strong>Alien Babies Podcast description</strong></summary>
 
 - Alien Babies Podcast is for the alien babies that like UFOs, ghosts, paranormal experiences, comedy & being an entrepreneur. Like the Joe Rogan Experience minus the politics & more UFOs. We also talk about following your dreams and unplugging from the 9-5 matrix. There is also a LIVE version of this podcast where I interview people about their UFO, ghost, and paranormal experiences in an open minded setting.
@@ -37,7 +40,12 @@
   - [Facebook](https://www.facebook.com/AlienBabiesPodcast)
 </details>
 
+</details>
+
 ## JRE Clips
+
+<details>
+<summary><strong>About</strong></summary>
 
 <details>
 <summary><strong>JRE Clips Description</strong></summary>
@@ -56,7 +64,12 @@ Location: United States
 <summary><strong>JRE Clips Links</strong></summary>
 </details>
 
+</details>
+
 ## Lex Clips
+
+<details>
+<summary><strong>About</strong></summary>
 
 <details>
 <summary><strong>Lex Clips Description</strong></summary>
@@ -78,7 +91,12 @@ Location: United States
 - [Lex Fridman Main Channel](https://www.youtube.com/lexfridman)
 </details>
 
+</details>
+
 ## Lex Fridman
+
+<details>
+<summary><strong>About</strong></summary>
 
 <details>
 <summary><strong>Lex Fridman Description</strong></summary>
@@ -102,7 +120,12 @@ Location: United States
 - [Twitter](https://twitter.com/lexfridman)
 </details>
 
+</details>
+
 ## PowerfulJRE
+
+<details>
+<summary><strong>About</strong></summary>
 
 <details>
 <summary><strong>PowerfulJRE Description</strong></summary>
@@ -126,7 +149,12 @@ The Joe Rogan Experience podcast
   - [The Joe Rogan Experience on Spotify](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
 </details>
 
+</details>
+
 ## Rich Roll
+
+<details>
+<summary><strong>About</strong></summary>
 
 <details>
 <summary><strong>Rich Roll Description</strong></summary>
@@ -174,3 +202,5 @@ Location: United States
 - [Twitter](https://www.twitter.com/#!/richroll)
 - [Instagram](https://www.instagram.com/richroll/)
 </details>
+
+</detail>
