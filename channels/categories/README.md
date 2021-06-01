@@ -80,6 +80,30 @@ Location: United States
 - [Twitter](https://twitter.com/lexfridman)
 </details>
 
+## PowerfulJRE
+
+<details>
+<summary><strong>PowerfulJRE Description</strong></summary>
+The Joe Rogan Experience podcast
+</details>
+
+<details>
+<summary><strong>PowerfulJRE Biography</strong></summary>
+</details>
+
+<details>
+<summary><strong>PowerfulJRE Details</strong></summary>
+</details>
+
+<details>
+<summary><strong>PowerfulJRE Links</strong></summary>
+
+- JoeRogan.com
+- <strike>[JRE on Spotify](https://open.spotify.com/playlist/318yxsZaEsYnBw64oCecVy)</strike> (looks like old link)
+  - [Joe Rogan (artist) on Spotify](https://open.spotify.com/artist/6lrt7LngdzxaQtLIXMraSR)
+  - [The Joe Rogan Experience on Spotify](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+</details>
+
 ## Rich Roll
 
 <details>
