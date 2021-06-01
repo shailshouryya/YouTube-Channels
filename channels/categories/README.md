@@ -2,7 +2,6 @@
 - note that not channels don't always fill out their <strong>About Page</strong> completely, so some of the sections might be blank
 
 ## Alien Babies Podcast
-
 <details>
 <summary><strong>Alien Babies Podcast: About Page</strong></summary>
 
@@ -44,7 +43,6 @@
 </details>
 
 ## JRE Clips
-
 <details>
 <summary><strong>JRE Clips: About Page</strong></summary>
 
@@ -68,7 +66,6 @@ Location: United States
 </details>
 
 ## Lex Clips
-
 <details>
 <summary><strong>Lex Clips: About Page</strong></summary>
 
@@ -95,7 +92,6 @@ Location: United States
 </details>
 
 ## Lex Fridman
-
 <details>
 <summary><strong>Lex Fridman: About Page</strong></summary>
 
@@ -124,7 +120,6 @@ Location: United States
 </details>
 
 ## PowerfulJRE
-
 <details>
 <summary><strong>PowerfulJRE: About Page</strong></summary>
 
@@ -153,7 +148,6 @@ The Joe Rogan Experience podcast
 </details>
 
 ## Rich Roll
-
 <details>
 <summary><strong>Rich Roll: About Page</strong></summary>
 

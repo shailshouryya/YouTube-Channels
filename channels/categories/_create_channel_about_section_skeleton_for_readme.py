@@ -18,7 +18,7 @@ def extract_text(driver):
     open_expandable_section_tag   = f'<details>\n<summary><strong>{channel_name}'
     finish_expandable_section_tag =  '</strong></summary>\n'
     with open(f'{formatted_channel_name}.md', mode='w', newline=None, encoding='utf-8') as file:
-        file.write(f'## {channel_name}\n\n')
+        file.write(f'## {channel_name}\n')
         file.write(f'{open_expandable_section_tag}: About Page{finish_expandable_section_tag}\n')
         file.write(f'{open_expandable_section_tag} Description{finish_expandable_section_tag}{description}\n</details>\n\n')
         file.write(f'{open_expandable_section_tag} Biography{finish_expandable_section_tag}{biography}\n</details>\n\n')
