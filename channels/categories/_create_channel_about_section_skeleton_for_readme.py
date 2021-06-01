@@ -16,7 +16,7 @@ def extract_text(driver):
     details     = driver.find_element_by_id('details-container').text
     links       = driver.find_element_by_id('links-container').text
     open_expandable_section_tag   = f'<details>\n<summary><strong>{channel_name}'
-    finish_expandable_section_tag =  '</strong></summary>\n\n'
+    finish_expandable_section_tag =  '</strong></summary>\n'
     with open(f'{formatted_channel_name}.md', mode='w', newline=None, encoding='utf-8') as file:
         file.write(f'## {channel_name}\n\n')
         file.write(f'{open_expandable_section_tag} Description{finish_expandable_section_tag}{description}\n</details>\n\n')
