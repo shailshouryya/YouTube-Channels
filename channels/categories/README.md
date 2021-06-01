@@ -1,4 +1,5 @@
 # Alphabetical list of all channels in repo with description
+- note that not channels don't always fill out their <strong>About Page</strong> completely, so some of the sections might be blank
 
 ## Alien Babies Podcast
 
